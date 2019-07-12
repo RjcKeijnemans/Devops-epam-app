@@ -1,5 +1,9 @@
 # DevOps Test Task
 
+<!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK --> 
+UwU:
+<!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK --!>
+
 ### Use-case:
 
 Customer has a Web application written in python with Flask which uses a Postgres relational database management system. 

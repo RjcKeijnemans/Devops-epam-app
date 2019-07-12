@@ -52,9 +52,9 @@ resource "azurerm_postgresql_server" "devops-test" {
   }
 
   storage_profile {
-    storage_mb            =        5120
-    backup_retention_days            = 7
-    geo_redundant_backup         =        "Disabled"
+    storage_mb            = 5120
+    backup_retention_days = 7
+    geo_redundant_backup  = "Disabled"
   }
 
   administrator_login          = var.admin_name
