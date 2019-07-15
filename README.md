@@ -1,8 +1,5 @@
 # DevOps Test Task
 
-<!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK --> 
-UwU:
-<!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 
 ### Use-case:
 
